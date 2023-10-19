@@ -10,4 +10,17 @@ class JoinsDemoApplicationTests {
 	void contextLoads() {
 	}
 
+	void contextLoads1() {
+	}
+
+
+	void contextLoads2() {
+	}
+
+	void contextLoads3() {
+	}
+
+	void contextLoads4() {
+	}
+
 }
